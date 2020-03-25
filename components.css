@@ -183,6 +183,10 @@
 	flex-grow: 1;
 }
 
+.username{
+	font-weight: bold;
+}
+
 .moreoption {
 	align-items: flex-end;
 	font-weight: bold;
