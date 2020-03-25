@@ -15,6 +15,15 @@ body {
 }
 
 .site-sidebar {
-	margin-right: 100px;
-	margin-top: 120px;
+	margin-right: 200px;
+	margin-top: 100px;
+	position: fixed;
+	right: 0px;
+	width: 270px;
+}
+
+.site-main {
+	margin-left: 200px;
+	margin-right: 20px;
+	margin-top: 100px;
 }

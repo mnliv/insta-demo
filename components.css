@@ -127,7 +127,7 @@
 	left: 0;
 	top: 50%;
 	margin-top: -15px;
-	margin-left: 100px;
+	margin-left: 200px;
 
 }
 .line {
@@ -160,7 +160,7 @@
 	right: 0;
 	top: 50%;
 	margin-top: -13.5px;
-	margin-right: 100px;
+	margin-right: 200px;
 }
 
 .icon-1 {
@@ -239,4 +239,5 @@
 
 .news {
 	border: 1px solid #DDD;
+	margin-bottom: 20px;
 }
