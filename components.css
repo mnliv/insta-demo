@@ -170,3 +170,73 @@
 .icon-2 {
 	padding: 0px 5px 0px 20px;
 }
+
+.news-header {
+	display: flex;
+	align-items: center;
+	padding: 10px 10px;
+}
+
+.news-info {
+	display: flex;
+	align-items: center;
+	flex-grow: 1;
+}
+
+.moreoption {
+	align-items: flex-end;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.hasn-stories {
+	border: none !important;
+}
+
+.news-picture {
+	width: 100%;
+	height: auto;
+}
+
+.news-picture img {
+	width: 100%;
+	height: auto;
+	size: cover;
+	position: center;	
+}
+
+.button-left {
+	flex-grow: 1;
+}
+
+.news-button {
+	display: flex;
+}
+
+.news-button div {
+	padding-left: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;	
+}
+
+.news-button .noti {
+	padding-right: 10px;
+}
+
+.like {
+	display: flex;
+}
+
+.small {
+	width: 20px;
+	height: 20px;
+	margin-left: 10px;
+}
+
+.status {
+	padding: 10px;
+}
+
+.news {
+	border: 1px solid #DDD;
+}
